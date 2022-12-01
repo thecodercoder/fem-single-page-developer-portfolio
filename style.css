@@ -222,9 +222,6 @@ svg {
 
 /*  HERO */
 
-.hero {
-}
-
 .hero__wrapper {
   padding-bottom: 80px;
 }
@@ -282,9 +279,6 @@ h1 > span {
 
 .hero__description {
   margin-block-end: 24px;
-}
-
-.hero__contact {
 }
 
 @media (min-width: 37.5em) {
@@ -475,9 +469,6 @@ h1 > span {
 
 /* PROJECTS */
 
-.projects {
-}
-
 .projects__wrapper {
   padding-block: 140px;
 }
@@ -659,9 +650,6 @@ h1 > span {
   margin-block-end: var(--fs-20);
 }
 
-.contact__form {
-}
-
 .contact__control {
   position: relative;
   margin-block-end: 16px;
@@ -684,9 +672,6 @@ h1 > span {
   color: var(--text1);
   opacity: 0.5;
   text-transform: uppercase;
-}
-
-.contact__control input {
 }
 
 .contact__control textarea {
